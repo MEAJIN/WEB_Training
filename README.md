@@ -1,7 +1,7 @@
 ## WEB_Training
 __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 있습니다.__<br><br>
 
-
+s { color: green }
 ## WEB_Training Site URL
 ```
 - HTML ~ JS 를 연습하면서 생성해 놓은 사이트 입니다. (모두 동일한 사이트)
