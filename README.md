@@ -4,8 +4,8 @@
 ## WEB_Training Site URL
 - 두 주소 모두 같은 내용을 포함하고 있습니다.
 ```
-https://meajin.github.io/WEB_Training/ (githup pages web site)
+https://meajin.github.io/WEB_Training/
 ```
 ```
-http://rlagpwls.iptime.org/ (web server 외부 접속 허용)
+http://rlagpwls.iptime.org/
 ```
