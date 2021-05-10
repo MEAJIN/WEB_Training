@@ -3,7 +3,7 @@
 
 
 ## WEB_Training Site URL
-- 모두 동일한 링크 입니다.
-```[https://meajin.github.io/WEB_Training/](https://meajin.github.io/WEB_Training/)```
-```http://rlagpwls.iptime.org/```
+- 모두 동일한 사이트 입니다.
+1. https://meajin.github.io/WEB_Training/)
+2. http://rlagpwls.iptime.org/
 
