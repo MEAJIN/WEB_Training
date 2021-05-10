@@ -1,7 +1,5 @@
 ## WEB_Training
-__HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 있습니다.__
-
-
+__HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 있습니다.__<br><br>
 
 
 ## WEB_Training Site URL
@@ -9,10 +7,7 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 HTML ~ JS 를 연습하면서 생성해 놓은 사이트 입니다. 모두 동일한 사이트 나타내고 있습니다.
 ```
 - https://meajin.github.io/WEB_Training/)
-- http://rlagpwls.iptime.org/  
-
-
-
+- http://rlagpwls.iptime.org/  <br><br>
 
 
 ## Naver Blog
