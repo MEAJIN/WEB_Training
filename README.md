@@ -2,8 +2,8 @@
 __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 있습니다.__<br>
 
 * ~ 05-10 : html end
-* 05-12 ~ : css3 ing
-<br>
+* 05-12 ~ : css3 ing<br>
+
 ## WEB_Training Site URL
 ```
 - HTML ~ JS 를 연습하면서 생성해 놓은 사이트 입니다. (모두 동일한 사이트)
