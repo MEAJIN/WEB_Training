@@ -10,7 +10,7 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 - 기술적인 부분만 사용해 보고 있기 때문에 디자인은 고려하지 않았습니다.
 ```
 - https://meajin.github.io/WEB_Training/
-- http://rlagpwls.iptime.org/  <br><br>
+- http://rlagpwls.iptime.org/ (매일 18시 이후 부터 열어 놓습니다.) <br><br>
 
 
 ## Naver Blog
