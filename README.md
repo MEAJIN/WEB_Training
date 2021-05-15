@@ -14,13 +14,10 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 - http://rlagpwls.iptime.org/ (sever open pm18 ~ close random) <br><br>
 
 ## 구현 기능
-- 05-09
 ```
-댓글, 실시간 채팅
-```
-- 05-16
-```
-반응형 웹
+- 댓글
+- 실시간 채팅
+- 반응형 웹
 ```
 
 ## Naver Blog
