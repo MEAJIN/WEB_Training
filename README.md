@@ -28,7 +28,5 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 - https://blog.naver.com/a5341663
 
 
-## 참고 사이트
-```
-PHP : http://blog.wishket.com/php-%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80-5%EB%B6%84%EB%A7%8C%EC%97%90-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/
-```
+## 개념 참고 사이트
+- PHP : http://blog.wishket.com/php-%EA%B0%9C%EB%B0%9C%EC%9D%B4%EB%9E%80-5%EB%B6%84%EB%A7%8C%EC%97%90-%EC%89%BD%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/
