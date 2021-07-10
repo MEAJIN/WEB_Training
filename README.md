@@ -4,7 +4,8 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 * ~ 05-10 : html end
 * 05-12 ~ 16 : css3 end
 * 05-19 ~ 07-04 : javascript
-* 07-01 ~ 07-05 : jquery (약간)<br><br>
+* 07-01 ~ 07-05 : jquery (약간)
+* 이제 리액트 레파지토리에서 뵙시다!<br><br>
 
 
 ## WEB_Training Site URL
