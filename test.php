@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html>
   <head></head>
   <body>
@@ -9,3 +10,4 @@
     <p>msg: <?php echo $_POST["msg"]; ?></p>
   </body>
 </html>
+
