@@ -9,12 +9,10 @@ __HTML ~ JS 를 연습하면서 생성된 파일 및 사이트를 게재 하고 
 
 ## WEB_Training Site URL
 ```
-- HTML ~ JS 를 연습하면서 생성해 놓은 사이트 입니다. (모두 동일한 사이트)
 - 기술적인 부분만 사용해 보고 있기 때문에 디자인은 고려하지 않았습니다.
 - 댓글 및 채팅 응답 X
 ```
 - https://meajin.github.io/WEB_Training/
-- http://rlagpwls.iptime.org/ (sever open pm18 ~ close random) 
 
 ## 구현 기능
 ```
